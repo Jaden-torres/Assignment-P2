@@ -1,0 +1,17 @@
+C:\Users\Jaden Torres\source\repos\Assignment P2\bin\Debug\net8.0-windows\Assignment P2.exe
+C:\Users\Jaden Torres\source\repos\Assignment P2\bin\Debug\net8.0-windows\Assignment P2.deps.json
+C:\Users\Jaden Torres\source\repos\Assignment P2\bin\Debug\net8.0-windows\Assignment P2.runtimeconfig.json
+C:\Users\Jaden Torres\source\repos\Assignment P2\bin\Debug\net8.0-windows\Assignment P2.dll
+C:\Users\Jaden Torres\source\repos\Assignment P2\bin\Debug\net8.0-windows\Assignment P2.pdb
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment_P2.Form1.resources
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment_P2.Resources.resources
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.vbproj.GenerateResource.cache
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.AssemblyInfoInputs.cache
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.AssemblyInfo.vb
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.vbproj.CoreCompileInputs.cache
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.dll
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\refint\Assignment P2.dll
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.pdb
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\Assignment P2.genruntimeconfig.cache
+C:\Users\Jaden Torres\source\repos\Assignment P2\obj\Debug\net8.0-windows\ref\Assignment P2.dll
